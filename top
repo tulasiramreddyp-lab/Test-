@@ -1,0 +1,18 @@
+Title name:
+Business Process Reengineering Suggestion Agent
+
+Problem Statement: 
+Organizations struggle to identify inefficiencies in existing business processes and find actionable, improvements quickly. 
+
+Data Requirements: Process documentation, performance data, workflow diagrams.
+
+Expected Output: Detailed process improvement reports with suggested changes (based an pre-defined industry. enterprise standards, benchmarks etc beyond LLM) and expected benefits. Be creative to go beyond as you solve the above needs.
+
+
+
+Planned enhancements:
+    - Automated workflow simulation & visualization
+    - KPI dashboard with before/after scenarios
+    - Multi-agent optimization (cost/time/quality agents)
+    - Voice-based interaction & mobile support
+    - Persistent storage & enterprise connector (ERP/MES)
